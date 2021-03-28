@@ -55,7 +55,7 @@ function SidebarComponent() {
             <MenuItem
                 id={SLUGS.overview}
                 items={[SLUGS.overviewTwo, SLUGS.overviewThree]}
-                title='Overview'
+                title='Teams'
                 icon={IconOverview}
             >
                 <MenuItem
@@ -82,7 +82,7 @@ function SidebarComponent() {
             </MenuItem>
             <MenuItem
                 id={SLUGS.tickets}
-                title='Tickets'
+                title='Projects'
                 icon={IconTickets}
                 onClick={() => onClick(SLUGS.tickets)}
             />
@@ -122,19 +122,19 @@ function SidebarComponent() {
             />
             <MenuItem
                 id={SLUGS.agents}
-                title='Agents'
+                title='Users'
                 icon={IconAgents}
                 onClick={() => onClick(SLUGS.agents)}
             />
             <MenuItem
                 id={SLUGS.articles}
-                title='Articles'
+                title='Documents'
                 icon={IconArticles}
                 onClick={() => onClick(SLUGS.articles)}
             />
             <MenuItem
                 id={SLUGS.subscription}
-                title='Subscription'
+                title='Meeting'
                 icon={IconSubscription}
                 onClick={() => onClick(SLUGS.subscription)}
             />

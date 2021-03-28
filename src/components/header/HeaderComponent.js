@@ -71,7 +71,7 @@ function HeaderComponent() {
             title = 'Dashboard';
             break;
         case [SLUGS.overview, SLUGS.overviewTwo, SLUGS.overviewThree].includes(currentItem):
-            title = 'Overview';
+            title = 'Teams';
             break;
         case currentItem === SLUGS.tickets:
             title = 'Tickets';
