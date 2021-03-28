@@ -146,5 +146,4 @@ function TodayTrendsComponent() {
         </Row>
     );
 }
-
 export default TodayTrendsComponent;

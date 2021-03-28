@@ -46,13 +46,13 @@ function TasksComponent(props) {
     const theme = useTheme();
     const classes = useStyles({ theme });
     const [items, setItems] = useState([
-        { title: 'Finish ticket update', checked: false, tag: TAGS.URGENT },
+        { title: 'Tasks Update', checked: false, tag: TAGS.URGENT },
         {
-            title: 'Create new ticket example',
+            title: 'Create new task example',
             checked: false,
             tag: TAGS.NEW
         },
-        { title: 'Update ticket report', checked: true, tag: TAGS.DEFAULT }
+        { title: 'Update task report', checked: true, tag: TAGS.DEFAULT }
     ]);
 
     function onCheckboxClick(index) {
