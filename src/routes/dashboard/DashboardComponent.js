@@ -63,7 +63,7 @@ function DashboardComponent() {
                     horizontal='space-between'
                     breakpoints={{ 384: 'column' }}
                 >
-                    <MiniCardComponent
+                    {/* <MiniCardComponent
                         className={classes.miniCardContainer}
                         title='Unresolved'
                         value='60'
@@ -72,7 +72,7 @@ function DashboardComponent() {
                         className={classes.miniCardContainer}
                         title='Overdue'
                         value='16'
-                    />
+                    /> */}
                 </Row>
                 <Row
                     className={classes.cardRow}
@@ -81,16 +81,16 @@ function DashboardComponent() {
                     horizontal='space-between'
                     breakpoints={{ 384: 'column' }}
                 >
-                    <MiniCardComponent
+                    {/* <MiniCardComponent
                         className={classes.miniCardContainer}
                         title='Open'
                         value='43'
-                    />
-                    <MiniCardComponent
+                    /> */}
+                    {/* <MiniCardComponent
                         className={classes.miniCardContainer}
                         title='On hold'
                         value='64'
-                    />
+                    /> */}
                 </Row>
             </Row>
             <div className={classes.todayTrends}>
