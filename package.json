@@ -2,7 +2,7 @@
     "name": "Dashboard",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Souravrao-31/Dashboard",
+    "homepage": "https://souravrao-31.github.io/Dashboard",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.35",
         "@fortawesome/free-solid-svg-icons": "^5.15.3",
@@ -42,6 +42,6 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^2.0.1"
+        "gh-pages": "^2.2.0"
     }
 }
