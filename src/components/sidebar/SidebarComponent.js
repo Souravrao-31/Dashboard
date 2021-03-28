@@ -84,7 +84,7 @@ function SidebarComponent() {
                 id={SLUGS.tickets}
                 title='Projects'
                 icon={IconTickets}
-                onClick={() => onClick(SLUGS.tickets)}
+                onClick={() => onClick()} //SLUGS.tickets
             />
             <MenuItem
                 id={SLUGS.ideas}
@@ -97,7 +97,7 @@ function SidebarComponent() {
                     title='Sub Item 1'
                     level={2}
                     icon={IconAgents}
-                    onClick={() => onClick(SLUGS.ideas)}
+                    onClick={() => onClick()} //SLUGS.ideas
                 />
                 <MenuItem
                     id={SLUGS.ideasTwo}
@@ -118,25 +118,25 @@ function SidebarComponent() {
                 id={SLUGS.contacts}
                 title='Contacts'
                 icon={IconContacts}
-                onClick={() => onClick(SLUGS.contacts)}
+                onClick={() => onClick()}  //SLUGS.contacts
             />
             <MenuItem
                 id={SLUGS.agents}
                 title='Users'
                 icon={IconAgents}
-                onClick={() => onClick(SLUGS.agents)}
+                onClick={() => onClick()}  //SLUGS.agents
             />
             <MenuItem
                 id={SLUGS.articles}
                 title='Documents'
                 icon={IconArticles}
-                onClick={() => onClick(SLUGS.articles)}
+                onClick={() => onClick()}   //SLUGS.articles
             />
             <MenuItem
                 id={SLUGS.subscription}
                 title='Meeting'
                 icon={IconSubscription}
-                onClick={() => onClick(SLUGS.subscription)}
+                onClick={() => onClick()}  //SLUGS.articles
             />
             <div className={classes.separator}></div>
             <MenuItem
