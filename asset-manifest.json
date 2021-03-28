@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Souravrao-31/Dashboard/static/css/main.ae49f849.chunk.css",
+    "main.js": "/Souravrao-31/Dashboard/static/js/main.a3f9259d.chunk.js",
+    "main.js.map": "/Souravrao-31/Dashboard/static/js/main.a3f9259d.chunk.js.map",
+    "runtime-main.js": "/Souravrao-31/Dashboard/static/js/runtime-main.2ffa11bf.js",
+    "runtime-main.js.map": "/Souravrao-31/Dashboard/static/js/runtime-main.2ffa11bf.js.map",
+    "static/js/2.7dfef7e3.chunk.js": "/Souravrao-31/Dashboard/static/js/2.7dfef7e3.chunk.js",
+    "static/js/2.7dfef7e3.chunk.js.map": "/Souravrao-31/Dashboard/static/js/2.7dfef7e3.chunk.js.map",
+    "static/js/3.5265fbc7.chunk.js": "/Souravrao-31/Dashboard/static/js/3.5265fbc7.chunk.js",
+    "static/js/3.5265fbc7.chunk.js.map": "/Souravrao-31/Dashboard/static/js/3.5265fbc7.chunk.js.map",
+    "static/js/4.c08ea82c.chunk.js": "/Souravrao-31/Dashboard/static/js/4.c08ea82c.chunk.js",
+    "static/js/4.c08ea82c.chunk.js.map": "/Souravrao-31/Dashboard/static/js/4.c08ea82c.chunk.js.map",
+    "index.html": "/Souravrao-31/Dashboard/index.html",
+    "precache-manifest.47809cdfcb0a99f8a1d4aab856964d31.js": "/Souravrao-31/Dashboard/precache-manifest.47809cdfcb0a99f8a1d4aab856964d31.js",
+    "service-worker.js": "/Souravrao-31/Dashboard/service-worker.js",
+    "static/css/main.ae49f849.chunk.css.map": "/Souravrao-31/Dashboard/static/css/main.ae49f849.chunk.css.map",
+    "static/js/2.7dfef7e3.chunk.js.LICENSE.txt": "/Souravrao-31/Dashboard/static/js/2.7dfef7e3.chunk.js.LICENSE.txt",
+    "static/js/3.5265fbc7.chunk.js.LICENSE.txt": "/Souravrao-31/Dashboard/static/js/3.5265fbc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ffa11bf.js",
+    "static/js/2.7dfef7e3.chunk.js",
+    "static/css/main.ae49f849.chunk.css",
+    "static/js/main.a3f9259d.chunk.js"
+  ]
+}
