@@ -1,1 +1,2 @@
 # Dashboard
+Made with React
